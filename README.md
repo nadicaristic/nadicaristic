@@ -5,7 +5,7 @@
 </p>
 
 ### Hi there 👋<h2> I'm Nadica</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b76119f98ad7b69f69f377c78022d1e42b17a5c58d69d&rid=giphy.gif&ct=s" width="230">
 
 
 <h3>🏻•💻 About Me </h3>
