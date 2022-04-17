@@ -1,6 +1,11 @@
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
 ### Hi there 👋<h2> I'm Nadica</h2>
-<img src="![image](https://user-images.githubusercontent.com/96199677/163728637-4ae74e46-ccfb-48fd-91ae-332485eb0aac.png)
-">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
 <h3>🏻•💻 About Me </h3>
@@ -25,8 +30,6 @@
 
 <hr>
 
-
-
 <br/><br/>
 
 [![Nadica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadicaristic&show_icons=true)](https://github.com/nadicaristic)
@@ -34,9 +37,6 @@
 <br/>
 
 <br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
 
 <br><br>
 
@@ -70,6 +70,7 @@
 
 
 <hr>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
