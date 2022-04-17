@@ -1,4 +1,6 @@
 ### Hi there 👋<h2> I'm Nadica</h2>
+<img src="![image](https://user-images.githubusercontent.com/96199677/163728637-4ae74e46-ccfb-48fd-91ae-332485eb0aac.png)
+">
 
 
 <h3>🏻•💻 About Me </h3>
@@ -9,7 +11,7 @@
 
 - 🎓 &nbsp; Bachelor of Science in Electrical Engineering and Information Technologies , in Computer Technologies and Engineering .
 
-- 🌱 &nbsp; Learning in SourceMx Academy
+- 🌱 &nbsp; Currently learning at SourceMX Academy 
 
 
 
@@ -27,7 +29,7 @@
 
 <br/><br/>
 
-[![Nadica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadicaristic=true)](https://github.com/nadicaristic)
+[![Nadica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadicaristic&show_icons=true)](https://github.com/nadicaristic)
 
 <br/>
 
@@ -35,7 +37,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadicaristic=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadicaristic&show_icons=true)
 
 <br><br>
 
