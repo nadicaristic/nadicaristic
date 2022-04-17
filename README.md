@@ -20,7 +20,7 @@
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>Languages and tools</h3>
 
 
 
