@@ -57,7 +57,7 @@
 
 <a href="https://www.linkedin.com/in/nadica-ristic-11076516b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nadica%20Ristic-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:nadicagavrovska@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-nadicaristic@yahoo.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nadicagavrovska@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-nadicagavrovska@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
