@@ -55,9 +55,10 @@
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/nadica-ristic/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nadica%20Ristic-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nadica-ristic/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nadica%20Ristic-blue?style=flat-square&logo=linkedin"></a><br>
 
-<a href="mailto:nadicagavrovska@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-nadicagavrovska@yahoo.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:nadicagavrovska@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-nadicagavrovska@yahoo.com-blue?style=flat-square&logo=gmail"></a><br>
+
  <a href="https://github.com/nadicaristic"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Nadica%20Ristic-blue?style=flat-square&logo=github"></a>
 
 </p>
