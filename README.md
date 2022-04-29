@@ -11,12 +11,12 @@
 <h3>🏻•💻 About Me </h3>
 
 
-
+-	:woman_technologist: Front End Web Developer. Focused on constant growth and education. 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 - 🎓 &nbsp; Bachelor of Science in Electrical Engineering and Information Technologies , in Computer Technologies and Engineering .
 
-- 🌱 &nbsp; Currently learning at SourceMX Academy 
+- 🌱 &nbsp; Currently learning at SMX
 
 
 
